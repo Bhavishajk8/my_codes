@@ -218,8 +218,8 @@ python API_cryptodata.py
 
 ---
 
-## Suggestions
+## Future scope
 - *We can further do in depth and micro analysis of the currencies and minute wise and day wise to understand the purchase and selling pattern.*
 * We can filter the data based on their incremental growth or fall in the value and sales
 
-# Authors: **Bhavisha Jayantibhai Kondhol**, **Adithya Arun Kumar**, **Manan Tejas Shah**,**Dikshit Darji**
+## Authors: **Bhavisha Jayantibhai Kondhol**, **Adithya Arun Kumar**, **Manan Tejas Shah**,**Dikshit Darji**
