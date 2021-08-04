@@ -1,5 +1,5 @@
 
-# Data Analysis and Visualization of Cryptocurrency 
+# Data Analysis for Cryptocurrency 
 
 
 ## Introduction
