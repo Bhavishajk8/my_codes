@@ -1,6 +1,6 @@
 
 
-# Data Analysis for Cryptocurrency 
+# Cryptocurrency Analysis 
 
 
 ## Introduction
